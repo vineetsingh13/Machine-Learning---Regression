@@ -26,6 +26,7 @@ The simple linear regression models have been implemented using three independen
 1. Engine Size
 2. Cylinders
 3. Combined Fuel Consumption
+
 Each variable is used individually as the predictor, and CO2 emissions are the dependent variable.
 
 ## Multiple Linear Regression
@@ -34,6 +35,7 @@ The multiple linear regression model is implemented using three independent vari
 1. Engine Size
 2. Cylinders
 3. Combined Fuel Consumption
+
 In this case, all three variables are used simultaneously as predictors, and CO2 emissions are the dependent variable.
 
 ## Code Execution Environment
