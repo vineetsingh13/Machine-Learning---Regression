@@ -38,3 +38,10 @@ In this case, all three variables are used simultaneously as predictors, and CO2
 
 ## Code Execution Environment
 The code has been implemented using Python and executed in Google Colaboratory. Google Colaboratory provides a free and convenient platform for running Python code in a Jupyter notebook environment with access to GPU.
+
+## Files in the repository
+
+- simpleLinearRegression.ipynb: Jupyter notebook containing the code for simple linear regression.
+- MultipleLinearRegression.ipynb: Jupyter notebook containing the code for multiple linear regression.
+- FuelConsumptionCo2.csv: The dataset used for training and testing the models.
+README.md: This readme file.
